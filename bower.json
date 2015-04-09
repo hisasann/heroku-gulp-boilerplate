@@ -1,19 +1,11 @@
 {
-  "name": "react-gulp-sample",
+  "name": "heroku-gulp-boilerplate",
   "version": "0.0.0",
-  "homepage": "https://github.com/mildsummer/react-gulp-sample",
+  "homepage": "",
   "moduleType": [
     "es6"
   ],
   "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "build/bower_components",
-    "test",
-    "tests"
-  ],
   "devDependencies": {
     "react": "~0.13.1"
   }
