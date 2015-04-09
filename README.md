@@ -16,7 +16,9 @@ heroku では、 http-server を使って起動している。
 ## 参考リンク
 
 [https://devcenter.heroku.com/articles/procfile](https://devcenter.heroku.com/articles/procfile)
+
 [http://www.sitepoint.com/deploying-heroku-using-gulp-node-git/](http://www.sitepoint.com/deploying-heroku-using-gulp-node-git/)
+
 [http://stackoverflow.com/questions/24504476/how-to-deploy-node-that-uses-gulp-to-heroku](http://stackoverflow.com/questions/24504476/how-to-deploy-node-that-uses-gulp-to-heroku)
 
 ## Tools
