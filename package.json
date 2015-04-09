@@ -1,5 +1,5 @@
 {
-  "name": "heroku-test",
+  "name": "heroku-gulp-boilerplate",
   "version": "0.0.0",
   "description": "",
   "main": "app.js",
@@ -12,7 +12,6 @@
   "dependencies": {
     "bower": "^1.4.1",
     "browserify": "^9.0.7",
-    "easymock": "^0.2.15",
     "express": "^4.12.3",
     "gulp": "^3.8.11",
     "gulp-babel": "^4.0.1",
